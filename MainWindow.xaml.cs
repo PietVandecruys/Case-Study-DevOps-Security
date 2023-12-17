@@ -11,9 +11,7 @@ using System.Windows.Shapes;
 
 namespace Project
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    
     public partial class MainWindow : Window
     {
         public List<Grade> DatabaseGrades { get; private set; }
